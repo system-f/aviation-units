@@ -26,11 +26,8 @@ library
                     Haskell2010
 
   build-depends:
-                    base < 5 && >= 4.8
-                    , lens
-                    , mtl
-                    , hgeometry
-                    , containers
+                    base >= 4.8 && < 5
+                    , lens >= 4.15 && < 5
                     
   ghc-options:
                     -Wall
