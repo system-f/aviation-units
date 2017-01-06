@@ -7,7 +7,11 @@ maintainer:         Tony Morris, Joshua Morris
 copyright:          Copyright (c) 2016, Commonwealth Scientific and Industrial Research Organisation (CSIRO) ABN 41 687 119 230.
 synopsis:           Units of measurements used in aviation.
 category:           Aviation
-description:        Units of measurements used in aviation.
+description:        
+  <<http://i.imgur.com/Ns5hntl.jpg>>
+  .
+  Units of measurements used in aviation.
+
 homepage:           https://github.com/data61/aviation-units
 bug-reports:        https://github.com/data61/aviation-units/issues
 cabal-version:      >= 1.10
