@@ -17,7 +17,11 @@ bug-reports:        https://github.com/data61/aviation-units/issues
 cabal-version:      >= 1.10
 build-type:         Simple
 extra-source-files: changelog
-tested-with:        GHC == 8.0.1
+tested-with:        GHC == 7.10.3
+                    , GHC == 8.0.2
+                    , GHC == 8.2.2
+                    , GHC == 8.4.4
+                    , GHC == 8.6.4
 
 source-repository   head
   type:             git
